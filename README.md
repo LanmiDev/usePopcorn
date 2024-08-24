@@ -40,3 +40,6 @@ npm start
 ```
 
 This will start the development server, and you can view the app in your browser at `http://localhost:3000`.
+
+## Screenshot from App
+![Screenshot of the usePopcorn website](./usePopcornWebsite.png)
