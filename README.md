@@ -20,7 +20,7 @@ usePopcorn is a React application that allows users to browse, search, and rate 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/usePopcorn.git
+   git clone https://github.com/LanmiDev/usePopcorn.git
    ```
 2. Navigate to the project directory:
    ```bash
